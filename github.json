@@ -1,0 +1,7 @@
+{
+"redirect": "http://localhost:4567",
+"url": "http://localhost:4567",
+"scope": "repo user",
+"client": "<ClientID>",
+"secret": "<CLIENT SECRET"
+}
